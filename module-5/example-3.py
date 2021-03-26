@@ -5,4 +5,3 @@
 
 # Raise a number to 3, 4, 5, 6, 7, and 8
 # YOUR CODE HERE 
-
