@@ -15,5 +15,5 @@ print()
 # All at once
 print()
 
-# Print two results at once
+# Add two more print statements with any math
 # YOUR CODE HERE 
