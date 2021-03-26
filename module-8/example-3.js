@@ -1,4 +1,4 @@
-// Run this file by copying 'node module-8/example-2.js' into the Console box in the bottom righthand corner and hitting 'Enter'.
+// Run this file by copying 'node module-8/example-3.js' into the Console box in the bottom righthand corner and hitting 'Enter'.
 
 const number = 5;
 
