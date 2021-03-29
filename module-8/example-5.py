@@ -1,6 +1,6 @@
 # Run this file by copying 'python module-8/example-5.py' into the Console box in the bottom righthand corner and hitting 'Enter'.
 
-# Write a function that returns 'Larger' if a number is larger than 6, 'Equal' if it's equal, or 'Smaller' if it's less than 6
+# Write a function named compare_to_six that returns 'Larger' if a number is larger than 6, 'Equal' if it's equal, or 'Smaller' if it's less than 6
 # Note that in Python, we check whether numbers are equal using the == sign
 # YOUR CODE HERE
 
